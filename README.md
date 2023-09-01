@@ -4,7 +4,7 @@ VestaCP PHP templates for PHP 8.2
 Usage:
 
 ```
-apt-get install php8.2-apcu php8.2-mbstring php8.2-bcmath php8.2-cli php8.2-curl php8.0-fpm php8.2-gd php8.2-intl php8.2-mysql php8.2-soap php8.2-xml php8.2-zip php8.2-memcache php8.2-memcached
+apt-get install php8.2-apcu php8.2-mbstring php8.2-bcmath php8.2-cli php8.2-curl php8.2-fpm php8.2-gd php8.2-intl php8.2-mysql php8.2-soap php8.2-xml php8.2-zip php8.2-memcache php8.2-memcached
 update-rc.d php8.2-fpm defaults
 a2enconf php8.2-fpm
 systemctl restart apache2
