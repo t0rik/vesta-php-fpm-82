@@ -15,3 +15,5 @@ wget https://raw.githubusercontent.com/t0rik/vesta-php-fpm-82/main/PHP-FPM-82.tp
 wget https://raw.githubusercontent.com/t0rik/vesta-php-fpm-82/main/PHP-FPM-82.sh -O /usr/local/vesta/data/templates/web/apache2/PHP-FPM-82.sh
 chmod a+x /usr/local/vesta/data/templates/web/apache2/PHP-FPM-82.sh
 ```
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ft0rik%2Fvesta-php-fpm-82&label=Visitors&countColor=%23263759)
